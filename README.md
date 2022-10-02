@@ -7,6 +7,8 @@ Steps to execute :
    This file was too large for github repository
    Hence yolov3.weights can be downloaded from the below link :
    
+   https://drive.google.com/file/d/1OyO0CACnyFzz5qAwhEX9idpbrqAJx_Wo/view?usp=sharing
+   
 4. Cut paste the downloaded file inside yolo-coco folder 
 5. Open cmd prompt inside the source code folder and execute the file with the following command
 
