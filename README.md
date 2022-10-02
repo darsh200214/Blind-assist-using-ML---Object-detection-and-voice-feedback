@@ -4,7 +4,9 @@ Steps to execute :
 1. Download the code in a zip file from github repository
 2. Extracted the downloaded zip file
 3. Download yolov3.weights file from the below link
+
    This file was too large for github repository
+   
    Hence yolov3.weights can be downloaded from the below link :
    
    https://drive.google.com/file/d/1OyO0CACnyFzz5qAwhEX9idpbrqAJx_Wo/view?usp=sharing
