@@ -9,4 +9,5 @@ Steps to execute :
    
 4. Cut paste the downloaded file inside yolo-coco folder 
 5. Open cmd prompt inside the source code folder and execute the file with the following command
+
    python script.py --image images/dog.jpg --yolo yolo-coco
