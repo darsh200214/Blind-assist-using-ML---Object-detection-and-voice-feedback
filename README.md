@@ -9,7 +9,7 @@ With the recent rapid development of information technology (IT), a lot of resea
 Steps to execute :
 
 1. Download the code in a zip file from github repository
-2. Extracted the downloaded zip file
+2. Extract the downloaded zip file
 3. Download yolov3.weights file from the below link
 
    This file was too large for github repository
