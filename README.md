@@ -8,7 +8,8 @@ With the recent rapid development of information technology (IT), a lot of resea
 
 Steps to execute :
 
-1. Download the code in a zip file from github repository
+1. Download the code in a zip file from github repository 
+   (https://github.com/darsh200214/Blind-assist-using-ML---Object-detection-and-voice-feedback)
 2. Extract the downloaded zip file
 3. Download yolov3.weights file from the below link
 
